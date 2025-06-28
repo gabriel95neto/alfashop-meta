@@ -1,0 +1,3 @@
+[submodule "microservices/alfashop-ordering"]
+	path = microservices/alfashop-ordering
+	url = https://github.com/gabriel95neto/alfashop-ordering.git
